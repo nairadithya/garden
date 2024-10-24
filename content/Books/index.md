@@ -1,5 +1,3 @@
 ---
 title: Books
 ---
-
-Hello everyone.
