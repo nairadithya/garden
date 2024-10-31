@@ -1,6 +1,6 @@
 This is my online personal knowledge garden.
 
-To those unfamiliar with the concept, it's the home of all my thoughts both incubating and mature.
+To those unfamiliar with the concept, this is the home of all my important thoughts.
 
 This place will act as a home to all the things that have informed me. As well as the things I like to keep around.
 
