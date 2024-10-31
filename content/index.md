@@ -1,7 +1,6 @@
 ---
 title: Welcome To My Garden
 ---
-
 This is my online personal knowledge garden.
 
 To those unfamiliar with the concept, it's the home of all my thoughts both incubating and mature.
@@ -19,4 +18,4 @@ All writings beautiful, thoughtful and inspirational will find a home here. All 
 ## Websites
 
 - [[fun-websites|Fun Websites]]
--
+- [[gems-from-the-internet|Gems From The Internet]]
