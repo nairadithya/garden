@@ -46,7 +46,7 @@ Sequel: [[grey-sister|Grey Sister]]
 
 ---
 
-> [!bug] Children deserve honesty in the dark  
+> [!danger] Children deserve honesty in the dark  
 > “I thought you liked to lie.” Nona wriggled her hands in the yoke’s grip. It hurt. “I said lies can be very useful. Even children deserve honesty in the dark, though.” ^ref-63263
 
 ---
@@ -56,12 +56,12 @@ Sequel: [[grey-sister|Grey Sister]]
 
 ---
 
-> [!bug] Rain gods are fickle  
+> [!danger] Rain gods are fickle  
 > The villagers had it that there were gods in the rain, just as there were gods in each river and wood. You could pray to them but generally by the time they got close enough to hear you it was too late to stay dry. ^ref-43535
 
 ---
 
-> [!faq] Skepticism towards prophecy  
+> [!faq] Skepticism towards prophecy
 > “There’s no such thing as prophecy, Nona. Or rather there is but it’s madmen that tell them, or people who were once listened to for their wisdom and have found themselves growing old and unwise yet still wanting to be heard. There’s no magic in it. Magic doesn’t work that way.” ^ref-57417
 
 ---
