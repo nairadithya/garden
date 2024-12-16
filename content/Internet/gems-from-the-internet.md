@@ -1,5 +1,5 @@
 ---
 title: Gems From The Internet
 ---
-These are links I find remarkably beautiful, and constantly revisit.
+These are articles and stories I believe are worth immortalizing.
 

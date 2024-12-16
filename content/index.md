@@ -13,7 +13,7 @@ All writings beautiful, thoughtful and inspirational will find a home here. All 
 
 ## Books
 
-[[Books]], they're a nice mix of fiction and non-fiction. Anything I find beautiful or inspiring will show up. Have a read through my highlights for [[the-name-of-the-wind|The Name Of The Wind]] or [[babel|Babel]]. I find them quite nice to browse through. If you're looking for some entertainment, might I interest you in the work of [[the-hitchhikers-guide-to-the-galaxy|Douglas Adams]]? Maybe they might convince you to pick up the actual books themselves?
+A nice mix of fiction and non-fiction. Anything I find beautiful or inspiring will show up. Have a read through my highlights for [[the-name-of-the-wind|The Name Of The Wind]] or [[babel|Babel]]. I find them quite nice to browse through. If you're looking for some entertainment, might I interest you in the work of [[the-hitchhikers-guide-to-the-galaxy|Douglas Adams]]? Maybe they might convince you to pick up the actual books themselves?
 
 ## Websites
 

@@ -1,3 +1,5 @@
+# The Garden
+
 This is my online personal knowledge garden.
 
 To those unfamiliar with the concept, this is the home of all my important thoughts.
